@@ -1,4 +1,4 @@
-# DBMS_project
+# College Management System
 A project for the course Database Management Systems.
 
 ## Tech Stack
